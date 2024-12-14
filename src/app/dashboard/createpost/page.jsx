@@ -120,9 +120,11 @@ export default function CreatePostPage() {
               }
             >
               <option value="uncategorized">Select a category</option>
-              <option value="javascript">JavaScript</option>
-              <option value="reactjs">React.js</option>
-              <option value="nextjs">Next.js</option>
+              <option value="javascript">Political developments</option>
+              <option value="reactjs">Education</option>
+              <option value="nextjs">Health</option>
+              <option value="nextjs">Entertainment</option>
+              <option value="nextjs">Technology</option>
             </Select>
           </div>
           <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
