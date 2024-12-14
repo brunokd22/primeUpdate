@@ -6,6 +6,7 @@ import { nunito_sans, poppins } from "./fonts.js";
 
 import { ClerkProvider } from "@clerk/nextjs";
 import { ThemeModeScript } from "flowbite-react";
+import Footer from "./components/Footer";
 
 import "./globals.css";
 export default function RootLayout({ children }) {
@@ -20,6 +21,7 @@ export default function RootLayout({ children }) {
             <ThemeCom>
               <Header />
               <main className="nunito_sans">{children}</main>
+              <Footer />
             </ThemeCom>
           </ThemeProvider>
         </body>
