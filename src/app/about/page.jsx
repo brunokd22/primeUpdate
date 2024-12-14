@@ -10,30 +10,21 @@ export default function About() {
             <p>Prime Update Home</p>
 
             <p>
-              On this blog, you&apos;ll discover weekly articles and tutorials
-              covering a range of topics including web development, software
-              engineering, and programming languages. Sahand is continually
-              learning and exploring new technologies, so make sure to visit
-              frequently for the latest updates!
+              PrimeUpdate is a forward-thinking company dedicated to providing
+              timely and reliable news updates to the vibrant population in
+              Uganda and the world at large.
             </p>
-
             <p>
-              This website is created using Next.js and{" "}
-              <a
-                href="https://go.clerk.com/fgJHKlt"
-                target="_blank"
-                className="text-teal-500 hover:underline"
-              >
-                Clerk
-              </a>
-              .
-            </p>
-
-            <p>
-              We invite you to comment on our posts and interact with other
-              readers. You can like and reply to others&apos; comments as well.
-              We believe that a community of learners can support each
-              other&apos;s growth and development.
+              In an era where information shapes decisions, PrimeUpdate stands
+              as a beacon of trustworthiness and speed. With a focus on engaging
+              readers from all walks of life, the organization aims to connect
+              people to news that matters—politics, business, sports, culture,
+              and more. PrimeUpdate envisions a community where individuals are
+              empowered with up-to-date, relevant, and factual information. It
+              leverages modern technology to deliver its content efficiently
+              while maintaining a high standard of journalism. The company seeks
+              to be a trusted voice in the media landscape, helping citizens
+              stay informed about the issues that impact their lives.
             </p>
           </div>
         </div>
